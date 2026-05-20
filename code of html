@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Personal Page</title>
+</head>
+<body>
+    <h1 style="color:blue;">karam khan </h1>
+    <p> I am a student of Bs Electronic and computing in Comsats university Islamabad who enjoys learning and exploring new ideas.</p>
+    
+    <h2 style="color:red;">My Department / University</h2>
+    <p>Electronics and computing  Department, Comsats University</p>
+    
+    <h2>My Skills & Interests</h2>
+    <ul>
+        <li>Programming</li>
+        <li>Web Development</li>
+        <li>cookingg</li>
+        <li>Sports</li>
+    </ul>
+    
+    <h2>GitHub Username</h2>
+    <p><b>karamkhan508 </b></p>
+</body>
+</html>
